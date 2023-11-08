@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net" modified="2023-10-26T19:39:15.768Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.61" etag="CDBaNrvlVCQX2BvxYSAS" version="21.8.0" type="device">
+  <diagram name="Page-1" id="Arvr1iIcSLgxbItw9mFS">
+    <mxGraphModel dx="1301" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uRuyXRY9Hi6n6hoGiFAT-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uRuyXRY9Hi6n6hoGiFAT-2" target="uRuyXRY9Hi6n6hoGiFAT-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uRuyXRY9Hi6n6hoGiFAT-2" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="270" y="48" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uRuyXRY9Hi6n6hoGiFAT-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uRuyXRY9Hi6n6hoGiFAT-5" target="uRuyXRY9Hi6n6hoGiFAT-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uRuyXRY9Hi6n6hoGiFAT-5" value="&lt;span class=&quot;NormalTextRun SCXW44899743 BCX2&quot;&gt;Robot &lt;b&gt;turn on &lt;/b&gt;a &lt;b&gt;green light &lt;/b&gt;and say: &lt;b&gt;&quot;ready set go.&quot;&lt;/b&gt;&lt;/span&gt;&lt;span class=&quot;TextRun SCXW44899743 BCX2&quot; lang=&quot;EN&quot; style=&quot;font-size: 10pt; line-height: 16.1875px; font-family: Arial, &amp;quot;Arial_EmbeddedFont&amp;quot;, &amp;quot;Arial_MSFontService&amp;quot;, sans-serif;&quot; data-contrast=&quot;auto&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="140" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uRuyXRY9Hi6n6hoGiFAT-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uRuyXRY9Hi6n6hoGiFAT-7" target="uRuyXRY9Hi6n6hoGiFAT-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uRuyXRY9Hi6n6hoGiFAT-7" value="Robot will &lt;b&gt;run a length of 22&lt;/b&gt;&#39;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="232.5" y="250" width="175" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="uRuyXRY9Hi6n6hoGiFAT-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uRuyXRY9Hi6n6hoGiFAT-10" target="uRuyXRY9Hi6n6hoGiFAT-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uRuyXRY9Hi6n6hoGiFAT-10" value="Robot &lt;b&gt;makes a right&lt;/b&gt; for a &lt;b&gt;distance of 11&#39;8&quot;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="232.5" y="369" width="175" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="uRuyXRY9Hi6n6hoGiFAT-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uRuyXRY9Hi6n6hoGiFAT-12" target="uRuyXRY9Hi6n6hoGiFAT-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uRuyXRY9Hi6n6hoGiFAT-12" value="Robot &lt;b&gt;makes another right for a 21&#39;6&quot; length&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="232.5" y="481" width="175" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uRuyXRY9Hi6n6hoGiFAT-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uRuyXRY9Hi6n6hoGiFAT-14" target="uRuyXRY9Hi6n6hoGiFAT-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uRuyXRY9Hi6n6hoGiFAT-14" value="Robot &lt;b&gt;makes the last right for a length of 11&#39;11&quot;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="231.25" y="602" width="177.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uRuyXRY9Hi6n6hoGiFAT-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uRuyXRY9Hi6n6hoGiFAT-16" target="uRuyXRY9Hi6n6hoGiFAT-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uRuyXRY9Hi6n6hoGiFAT-16" value="Robot &lt;b&gt;reaches the end&lt;/b&gt;/starting point" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="707" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uRuyXRY9Hi6n6hoGiFAT-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uRuyXRY9Hi6n6hoGiFAT-18" target="uRuyXRY9Hi6n6hoGiFAT-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uRuyXRY9Hi6n6hoGiFAT-18" value="Robot &lt;b&gt;turns red&lt;/b&gt; and &lt;b&gt;says: &quot;I am done and I need water.&quot;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="806" width="170" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="uRuyXRY9Hi6n6hoGiFAT-20" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="270" y="920" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
